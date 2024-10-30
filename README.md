@@ -47,17 +47,6 @@ CREATE TABLE user (
     password VARCHAR(50)
 );
 
-CREATE TABLE items (
-    item_id INT PRIMARY KEY AUTO_INCREMENT,
-    name VARCHAR(50),
-    price DECIMAL(5, 2)
-);
-
-CREATE TABLE orders (
-    order_id INT PRIMARY KEY AUTO_INCREMENT,
-    order_details TEXT,
-    total_amount DECIMAL(10, 2)
-);
 </code></pre>
 
 <h3>Step 3: Configure Database Connection in Code</h3>
