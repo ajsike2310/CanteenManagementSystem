@@ -46,7 +46,6 @@ CREATE TABLE user (
     username VARCHAR(50) UNIQUE,
     password VARCHAR(50)
 );
-
 </code></pre>
 
 <h3>Step 3: Configure Database Connection in Code</h3>
