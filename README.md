@@ -28,8 +28,8 @@
 <h2>📦 Setup Instructions</h2>
 
 <h3>Step 1: Clone the Repository</h3>
-<pre><code>git clone https://github.com/your-username/CafeOrd.git
-cd CafeOrd
+<pre><code>git clone https://github.com/your-username/CanteenManagementSystem.git
+cd CanteenManagementSystem
 </code></pre>
 
 <h3>Step 2: Set Up the Database</h3>
